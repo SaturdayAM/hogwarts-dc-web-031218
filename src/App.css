@@ -20,6 +20,11 @@
   margin: 2% 0% 2% 0%;
 }
 
+.pigImage{
+  width:200px;
+  height:200px;
+}
+
 .headerText {
   color: #F5A9BC;
   font-size: 3em;
